@@ -1,0 +1,246 @@
+fileFormatVersion: 2
+guid: b0325bf9b8a9b482899bb036b405df6b
+timeCreated: 1514625649
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bamster
+    100002: //RootNode
+    100004: Bamster_LowPoly
+    100006: Bamster_MeshPart0
+    100008: Bamster_MeshPart1
+    100010: Bamster_MeshPart10
+    100012: Bamster_MeshPart11
+    100014: Bamster_MeshPart12
+    100016: Bamster_MeshPart13
+    100018: Bamster_MeshPart14
+    100020: Bamster_MeshPart15
+    100022: Bamster_MeshPart16
+    100024: Bamster_MeshPart17
+    100026: Bamster_MeshPart18
+    100028: Bamster_MeshPart19
+    100030: Bamster_MeshPart2
+    100032: Bamster_MeshPart20
+    100034: Bamster_MeshPart21
+    100036: Bamster_MeshPart22
+    100038: Bamster_MeshPart23
+    100040: Bamster_MeshPart3
+    100042: Bamster_MeshPart4
+    100044: Bamster_MeshPart5
+    100046: Bamster_MeshPart6
+    100048: Bamster_MeshPart7
+    100050: Bamster_MeshPart8
+    100052: Bamster_MeshPart9
+    100054: Eye
+    100056: Teeth
+    400000: Bamster
+    400002: //RootNode
+    400004: Bamster_LowPoly
+    400006: Bamster_MeshPart0
+    400008: Bamster_MeshPart1
+    400010: Bamster_MeshPart10
+    400012: Bamster_MeshPart11
+    400014: Bamster_MeshPart12
+    400016: Bamster_MeshPart13
+    400018: Bamster_MeshPart14
+    400020: Bamster_MeshPart15
+    400022: Bamster_MeshPart16
+    400024: Bamster_MeshPart17
+    400026: Bamster_MeshPart18
+    400028: Bamster_MeshPart19
+    400030: Bamster_MeshPart2
+    400032: Bamster_MeshPart20
+    400034: Bamster_MeshPart21
+    400036: Bamster_MeshPart22
+    400038: Bamster_MeshPart23
+    400040: Bamster_MeshPart3
+    400042: Bamster_MeshPart4
+    400044: Bamster_MeshPart5
+    400046: Bamster_MeshPart6
+    400048: Bamster_MeshPart7
+    400050: Bamster_MeshPart8
+    400052: Bamster_MeshPart9
+    400054: Eye
+    400056: Teeth
+    2300000: Bamster_LowPoly
+    2300002: Bamster_MeshPart0
+    2300004: Bamster_MeshPart1
+    2300006: Bamster_MeshPart10
+    2300008: Bamster_MeshPart11
+    2300010: Bamster_MeshPart12
+    2300012: Bamster_MeshPart13
+    2300014: Bamster_MeshPart14
+    2300016: Bamster_MeshPart15
+    2300018: Bamster_MeshPart16
+    2300020: Bamster_MeshPart17
+    2300022: Bamster_MeshPart18
+    2300024: Bamster_MeshPart19
+    2300026: Bamster_MeshPart2
+    2300028: Bamster_MeshPart20
+    2300030: Bamster_MeshPart21
+    2300032: Bamster_MeshPart22
+    2300034: Bamster_MeshPart23
+    2300036: Bamster_MeshPart3
+    2300038: Bamster_MeshPart4
+    2300040: Bamster_MeshPart5
+    2300042: Bamster_MeshPart6
+    2300044: Bamster_MeshPart7
+    2300046: Bamster_MeshPart8
+    2300048: Bamster_MeshPart9
+    2300050: Eye
+    2300052: Teeth
+    3300000: Bamster_LowPoly
+    3300002: Bamster_MeshPart0
+    3300004: Bamster_MeshPart1
+    3300006: Bamster_MeshPart10
+    3300008: Bamster_MeshPart11
+    3300010: Bamster_MeshPart12
+    3300012: Bamster_MeshPart13
+    3300014: Bamster_MeshPart14
+    3300016: Bamster_MeshPart15
+    3300018: Bamster_MeshPart16
+    3300020: Bamster_MeshPart17
+    3300022: Bamster_MeshPart18
+    3300024: Bamster_MeshPart19
+    3300026: Bamster_MeshPart2
+    3300028: Bamster_MeshPart20
+    3300030: Bamster_MeshPart21
+    3300032: Bamster_MeshPart22
+    3300034: Bamster_MeshPart23
+    3300036: Bamster_MeshPart3
+    3300038: Bamster_MeshPart4
+    3300040: Bamster_MeshPart5
+    3300042: Bamster_MeshPart6
+    3300044: Bamster_MeshPart7
+    3300046: Bamster_MeshPart8
+    3300048: Bamster_MeshPart9
+    3300050: Eye
+    3300052: Teeth
+    4300000: Bamster_LowPoly
+    4300002: Teeth
+    4300004: Eye
+    4300006: Bamster_MeshPart0
+    4300008: Bamster_MeshPart1
+    4300010: Bamster_MeshPart2
+    4300012: Bamster_MeshPart3
+    4300014: Bamster_MeshPart4
+    4300016: Bamster_MeshPart5
+    4300018: Bamster_MeshPart6
+    4300020: Bamster_MeshPart7
+    4300022: Bamster_MeshPart8
+    4300024: Bamster_MeshPart9
+    4300026: Bamster_MeshPart10
+    4300028: Bamster_MeshPart11
+    4300030: Bamster_MeshPart12
+    4300032: Bamster_MeshPart13
+    4300034: Bamster_MeshPart14
+    4300036: Bamster_MeshPart15
+    4300038: Bamster_MeshPart16
+    4300040: Bamster_MeshPart17
+    4300042: Bamster_MeshPart18
+    4300044: Bamster_MeshPart19
+    4300046: Bamster_MeshPart20
+    4300048: Bamster_MeshPart21
+    4300050: Bamster_MeshPart22
+    4300052: Bamster_MeshPart23
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_001__specular_map
+    second: {fileID: 2100000, guid: 7cea2108ff22140508260625c57e660e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_003
+    second: {fileID: 2100000, guid: bc35ae17cf1ef40c29bed7b50ca3da9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_004
+    second: {fileID: 2100000, guid: 49b56470b110942b091964d760024e61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__specular_map
+    second: {fileID: 2100000, guid: 7cea2108ff22140508260625c57e660e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
